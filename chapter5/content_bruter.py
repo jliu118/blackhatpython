@@ -1,5 +1,4 @@
 import urllib.request, urllib.error, urllib.parse 
-import urllib.request, urllib.parse, urllib.error
 import threading
 import queue
 
