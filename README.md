@@ -19,3 +19,5 @@ MISSING FILES:
 PARTIAL: (merge request opportunity)
 * ch 6 - Turning Website Content into Password Gold: (whatever file name you saved as)
 * ch 7 - All entries
+
+Python2 => 3 conversion in this branch
