@@ -85,5 +85,5 @@ word_queue = build_wordlist(wordlist_file)
 extensions = [".php",".bak",".orig",".inc"]
 
 for i in range(threads):
-            t = threading.Thread(target=dir_bruter,args=(extensions,))
-            t.start()
+    t = threading.Thread(target=dir_bruter,args=(extensions,))
+    t.start()
